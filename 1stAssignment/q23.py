@@ -1,12 +1,12 @@
 
 
 side = 3
-cartoonDi1 = 15
-cartoonDi2 = 9
-cartoonDi3 = 12
+cartoon_di1 = 15
+cartoon_di2 = 9
+cartoon_di3 = 12
 
 
-carton = cartoonDi1 * cartoonDi2 * cartoonDi3
+carton = cartoon_di1 * cartoon_di2 * cartoon_di3
 box = side ** 2
 boxes = carton // box
 

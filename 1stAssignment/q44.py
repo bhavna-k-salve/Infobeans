@@ -1,9 +1,9 @@
 
 
-a = -21
-d = 3
-n = 28
+first_team = -21
+difference = 3
+team = 28
 
-an =  -21 + (n-1) *d
+n_number =  first_team + (difference-1) *difference
 
-print(an)
+print(n_number)

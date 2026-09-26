@@ -1,12 +1,12 @@
 
 
 
-a = -21
-d = 3
-n = 28
+first_team = -21
+difference = 3
+team = 28
 
-sn = ( n * ((2*-21) + (n-1) *d))/2
+sum_of_numbers = ( first_team * ((2*first_team) + (team-1) *difference))/2
 
 
 
-print(sn)
+print(sum_of_numbers)

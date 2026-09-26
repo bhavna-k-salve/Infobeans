@@ -1,0 +1,11 @@
+
+
+
+
+for i in range(6,-1,-1):
+  for j in range(1,6):
+    if i < 7-j:
+      print(" ",end="")
+    else:  
+      print(i-1,end=" ") 
+  print()  

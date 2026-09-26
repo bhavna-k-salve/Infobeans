@@ -1,8 +1,8 @@
 
 
 
-floorlength = 800
-floorbredth = 900
+floor_length = 800
+floor_bredth = 900
 
 side = 10
 

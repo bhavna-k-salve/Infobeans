@@ -3,14 +3,14 @@
 
 #tiles 
 
-tileLength = 13
-tileBreadth = 7
+tile_length = 13
+tile_breadth = 7
 
 #region
 
-regionLength = 520
-regionBreadth = 140
+region_length = 520
+region_breadth = 140
 
 
-totalTiles = ((regionLength * regionBreadth)/ (tileLength * tileBreadth) )
-print(f"Total tiles is : {totalTiles}")
+total_tiles = ((region_length * region_breadth)/ (tile_length * tile_breadth) )
+print(f"Total tiles is : {total_tiles}")

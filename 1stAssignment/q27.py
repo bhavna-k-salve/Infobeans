@@ -5,6 +5,6 @@ wide = 15
 
 rate = 5
 
-totalCost = long * wide * rate
+total_cost = long * wide * rate
 
-print(totalCost)
+print(total_cost)

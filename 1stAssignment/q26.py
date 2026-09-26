@@ -1,12 +1,12 @@
 
-pathLong = 120
-pathBreadth = 2.4
+path_long = 120
+path_breadth = 2.4
 
-brickLong = 24
-brickWide = 15
+brick_long = 24
+brick_wide = 15
 
-pathArea = pathLong * pathBreadth
-brickArea = (brickLong/100) * (brickWide/100)
-number = pathArea / brickArea
+path_area = path_long * path_breadth
+brick_area = (brick_long/100) * (brick_wide/100)
+number = path_area / brick_area
 
 print("Number of bricks:", int(number))
